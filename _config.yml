@@ -49,8 +49,8 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
-github_url:
+linkedin_url: https://www.linkedin.com/in/kiley-vlasak/
+github_url: https://github.com/vlasa022
 stackoverflow_url:
 pinterest_url:
 slack_url:
@@ -60,5 +60,5 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
+theme: remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
